@@ -1,0 +1,2 @@
+#!/bin/sh
+pdf2ps $1 - | psbook -s12 /dev/stdin /dev/stdout | psnup -2 -w8.5in -h14in -W7in -H8.5in /dev/stdin /dev/stdout | ps2pdf -sPAPERSIZE=legal - booklet.pdf
