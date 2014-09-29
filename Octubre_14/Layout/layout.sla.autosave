@@ -198,7 +198,7 @@
         <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="638" YPOS="137.25" WIDTH="259.386018237082" HEIGHT="452.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.563882648341483" LOCALSCY="0.687310030395137" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/tapa2.jpg" PFILE2="" PFILE3="" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 259.386 0 259.386 0 259.386 0 259.386 0 259.386 452.25 259.386 452.25 259.386 452.25 259.386 452.25 0 452.25 0 452.25 0 452.25 0 452.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 259.386 0 259.386 0 259.386 0 259.386 0 259.386 452.25 259.386 452.25 259.386 452.25 259.386 452.25 0 452.25 0 452.25 0 452.25 0 452.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <ImageEffect Code="1" Param=""/>
-            <ImageEffect Code="4" Param="29"/>
+            <ImageEffect Code="4" Param="15"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="609" YPOS="25" WIDTH="0" HEIGHT="100" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 0 0 0 0 0 0 0 0 0 100 0 100 0 100 0 100 0 100 0 100 0 100 0 100 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 0 0 0 0 0 0 0 0 0 100 0 100 0 100 0 100 0 100 0 100 0 100 0 100 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -235,16 +235,16 @@
             <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="24" CH=";"/>
             <ITEXT FONT="Asenine Regular" FONTSIZE="24" CH=" Astrología"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="Asenine Regular" FONTSIZE="20" CH="  el tránsito de Urano por Aries"/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="20" CH="  El universo interior "/>
             <para ALIGN="2"/>
-            <ITEXT FONT="Asenine Regular" FONTSIZE="12" CH="por Adrián Bechelli"/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="12" CH="por Adrián"/>
             <para ALIGN="2"/>
             <para/>
             <para/>
             <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="24" CH=";"/>
             <ITEXT FONT="Asenine Regular" FONTSIZE="24" CH=" Tarot"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="Asenine Regular" FONTSIZE="20" CH="&quot;el loco&quot; y &quot;la fuerza&quot;"/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="20" CH="Las virtudes del tarot"/>
             <para ALIGN="2"/>
             <ITEXT FONT="Asenine Regular" FONTSIZE="12" CH="por Fernando Blanc"/>
             <para ALIGN="2"/>
@@ -253,7 +253,7 @@
             <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="24" CH=";"/>
             <ITEXT FONT="Asenine Regular" FONTSIZE="24" CH=" Sexualidad sagrada"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="Asenine Regular" FONTSIZE="20" CH="     conectándonos con nuestra raíz"/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="20" CH="     La otra sexualidad"/>
             <para ALIGN="2"/>
             <ITEXT FONT="Asenine Regular" FONTSIZE="12" CH="por Pamela De Girolamo"/>
             <para ALIGN="2"/>
@@ -262,8 +262,6 @@
             <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="24" CH=";"/>
             <ITEXT FONT="Asenine Regular" FONTSIZE="24" CH=" Editorial"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="Asenine Regular" FONTSIZE="20" CH="dando la bienvenida"/>
-            <para ALIGN="2"/>
             <ITEXT FONT="Asenine Regular" FONTSIZE="12" CH="por Fernando Blanc y Leandro Liptak"/>
             <trail ALIGN="2"/>
             <PageItemAttributes/>
@@ -417,7 +415,7 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="125" YPOS="1397" WIDTH="457" HEIGHT="39.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Asenine Regular" ISIZE="36" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 457 0 457 0 457 0 457 0 457 39.25 457 39.25 457 39.25 457 39.25 0 39.25 0 39.25 0 39.25 0 39.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 457 0 457 0 457 0 457 0 457 39.25 457 39.25 457 39.25 457 39.25 0 39.25 0 39.25 0 39.25 0 39.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="PeaxWebdesignarrows Medium" CH=";"/>
-            <ITEXT CH=" El tránsito de Urano por Aries"/>
+            <ITEXT CH=" Las virtudes del tarot"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -642,10 +640,6 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="135" YPOS="3713.25" WIDTH="435" HEIGHT="147.999999999998" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Asenine Regular" ISIZE="36" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 435 0 435 0 435 0 435 0 435 148 435 148 435 148 435 148 0 148 0 148 0 148 0 148 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 435 0 435 0 435 0 435 0 435 148 435 148 435 148 435 148 0 148 0 148 0 148 0 148 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail ALIGN="4"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="9" PTYPE="5" XPOS="132" YPOS="3598" WIDTH="437" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="2" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
@@ -740,7 +734,7 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="125" YPOS="3604" WIDTH="157.75" HEIGHT="25.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Asenine Regular" ISIZE="24" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 157.75 0 157.75 0 157.75 0 157.75 0 157.75 25.75 157.75 25.75 157.75 25.75 157.75 25.75 0 25.75 0 25.75 0 25.75 0 25.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 157.75 0 157.75 0 157.75 0 157.75 0 157.75 25.75 157.75 25.75 157.75 25.75 157.75 25.75 0 25.75 0 25.75 0 25.75 0 25.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="125" YPOS="3606" WIDTH="157.75" HEIGHT="25.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Asenine Regular" ISIZE="24" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 157.75 0 157.75 0 157.75 0 157.75 0 157.75 25.75 157.75 25.75 157.75 25.75 157.75 25.75 0 25.75 0 25.75 0 25.75 0 25.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 157.75 0 157.75 0 157.75 0 157.75 0 157.75 25.75 157.75 25.75 157.75 25.75 157.75 25.75 0 25.75 0 25.75 0 25.75 0 25.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="24" CH=";"/>
             <ITEXT FONTSIZE="24" CH=" Casa Amatista"/>
             <trail/>
@@ -766,9 +760,48 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="135" YPOS="3634.5" WIDTH="264" HEIGHT="60" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264 0 264 0 264 0 264 0 264 60 264 60 264 60 264 60 0 60 0 60 0 60 0 60 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264 0 264 0 264 0 264 0 264 60 264 60 264 60 264 60 0 60 0 60 0 60 0 60 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="4" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="En el corazón de Belgrano, existe un Puente hacia un estado de Bienestar. Un Puente con grandes oportunidades de sanar, de reencontrarte, de experimentar lo nuevo, de lograr cambios!"/>
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="135" YPOS="3633.5" WIDTH="252.75" HEIGHT="33.0000000000009" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Asenine Regular" ISIZE="16" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 252.75 0 252.75 0 252.75 0 252.75 0 252.75 33 252.75 33 252.75 33 252.75 33 0 33 0 33 0 33 0 33 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 252.75 0 252.75 0 252.75 0 252.75 0 252.75 33 252.75 33 252.75 33 252.75 33 0 33 0 33 0 33 0 33 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="4" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Terapias holísticas, arte y creatividad, conciencia natural."/>
             <trail ALIGN="4"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="135" YPOS="3690.5" WIDTH="435" HEIGHT="169.000000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="20" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Asenine Regular" ISIZE="16" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 435 0 435 0 435 0 435 0 435 169 435 169 435 169 435 169 0 169 0 169 0 169 0 169 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 435 0 435 0 435 0 435 0 435 169 435 169 435 169 435 169 0 169 0 169 0 169 0 169 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="12" CH="["/>
+            <ITEXT FONTSIZE="16" CH=" "/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Tzolkin Maya (cursos y cartas natales)"/>
+            <para ALIGN="0" LINESP="20"/>
+            <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="12" CH="["/>
+            <ITEXT FONTSIZE="16" CH=" "/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Astrología (cursos y cartas natales)"/>
+            <para ALIGN="0" LINESP="20"/>
+            <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="12" CH="["/>
+            <ITEXT FONTSIZE="16" CH=" "/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Terapia Floral Bach"/>
+            <para ALIGN="0" LINESP="20"/>
+            <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="12" CH="["/>
+            <ITEXT FONTSIZE="16" CH=" "/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Tarot (arquetipos)"/>
+            <para ALIGN="0" LINESP="20"/>
+            <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="12" CH="["/>
+            <ITEXT FONTSIZE="16" CH=" "/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Reiki (sesiones individuales e iniciaciones)"/>
+            <para ALIGN="0" LINESP="20"/>
+            <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="12" CH="["/>
+            <ITEXT FONTSIZE="16" CH=" "/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Masaje Californiano "/>
+            <para ALIGN="0" LINESP="20"/>
+            <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="12" CH="["/>
+            <ITEXT FONTSIZE="16" CH=" "/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Chamanismo, conocimientos ancestrales (talleres)"/>
+            <para ALIGN="0" LINESP="20"/>
+            <ITEXT FONT="PeaxWebdesignarrows Medium" FONTSIZE="12" CH="["/>
+            <ITEXT FONTSIZE="16" CH=" "/>
+            <ITEXT FONT="Asenine Regular" FONTSIZE="16" CH="Terapia artística energética espiritual (individual)"/>
+            <trail ALIGN="0" LINESP="20"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="5" XPOS="167" YPOS="3673" WIDTH="202" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
